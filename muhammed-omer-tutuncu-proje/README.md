@@ -8,6 +8,7 @@ Proje; görevleri "Yapılacaklar", "Yapılıyor" ve "Tamamlandı" sütunları ar
 ![Proje Görsel](./screenshots/image%202.png)
 ![Proje Görsel](./screenshots/image%203.png)
 
+.
 Projeyi bilgisayarınızda çalıştırmak için terminalde sırasıyla şu komutları yazın:
 
 ```bash
